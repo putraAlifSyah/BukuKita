@@ -1,0 +1,23 @@
+.table > tbody > tr > *{
+    vertical-align: middle;
+}
+.cover{
+    max-width: 100px;
+}
+
+.detail{
+    width: 210px;
+    padding-left: 5px;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.sinopsis{
+    text-align: justify;
+}
+
+.tulisan{
+    margin-left: 20px;
+}
